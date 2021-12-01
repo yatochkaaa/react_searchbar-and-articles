@@ -1,6 +1,6 @@
 # Searchbar with articles page
 
-[DEMO LINK](yatochkaaa.github.io/react_searchbar-and-articles)
+[DEMO LINK](https://yatochkaaa.github.io/react_searchbar-and-articles/)
 
 [Figma design](https://www.figma.com/file/h1veXmuEt84sT7PEZgF42K/Frontend_test?node-id=466%3A2).
 

@@ -59,11 +59,12 @@ const App: React.FC = () => {
             </label>
           </div>
         </header>
+
         <main className="App-main">
           <p className="section__title">Results: {articles.length}</p>
           {articles.length && <ArticleList articles={articlesFilter()} />}
         </main>
-        </ThemeProvider>
+      </ThemeProvider>
     </div>
   );
 }
